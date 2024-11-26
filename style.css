@@ -1,0 +1,51 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    padding: 32px;
+}
+
+img{
+    border-radius: 15px;
+    align-items: center;
+    
+}
+.mayor{
+    font-family: "Figtree", sans-serif;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 340px;
+    margin: 0 auto;
+    box-shadow: 10px 10px black;
+    margin-top: 60px;
+}
+.containerPerfil{
+    display: flex;
+    align-items: center;
+}
+
+.parrafo{
+   color: hsl(0, 0%, 42%);
+   font-size: 16px;
+}
+
+.nombre{
+    font-weight: 800;
+    margin-left: 20px;
+}
+
+.cuadro{
+    background-color: hsl(47, 88%, 63%);
+    padding: 4px;
+    border-radius: 3px;
+    font-weight: 800;
+    width: 70px;
+    text-align: center;
+  
+}
+
+.fecha{
+    font-weight: 500;
+}
